@@ -1,1 +1,6 @@
-# state-management-frameworks
+# State Management Frameworks
+
+* Redux
+* Context API
+* RematchJS
+* RecoilJS
